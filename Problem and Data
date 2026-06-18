@@ -1,1 +1,4 @@
-
+git pull
+git rm "Problem and Data"
+git commit -m "Removed unwanted file"
+git push
